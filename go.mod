@@ -1,3 +1,3 @@
-module github.com/pablodz/inotifywaitgo
+module github.com/tedbennett/inotifywaitgo
 
 go 1.21
